@@ -1,0 +1,7 @@
+{ "version" : 1,
+  "nomatch" : "unknown",
+  "type" : "string",
+  "table" : [
+      {"index" : "dns", "value": "forward"},
+      {"index" : "myapp", "value": "local"}
+  ] }
